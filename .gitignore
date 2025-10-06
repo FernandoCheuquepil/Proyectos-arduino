@@ -1,0 +1,20 @@
+# Arduino IDE
+*.hex
+*.eep
+*.elf
+*.map
+
+# Build directories
+build/
+*.o
+*.a
+
+# Library directories
+libraries/
+
+# Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
